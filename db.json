@@ -3,24 +3,24 @@
     {
       "id": 1,
       "nome": "Vinicius Soares",
-      "instagam": "volze",
+      "instagram": "volze",
       "fone": "1845656565"
     },
     {
       "id": 2,
       "nome": "João",
-      "instagam": "João",
+      "instagram": "João",
       "fone": "185555555"
     },
     {
       "id": 3,
       "nome": "Gabi",
-      "instagam": "Gabi",
+      "instagram": "Gabi",
       "fone": "1866666666"
     },
     {
       "nome": "LOL",
-      "instagam": "Lolzero",
+      "instagram": "Lolzero",
       "fone": "1818181818",
       "id": 4
     }
