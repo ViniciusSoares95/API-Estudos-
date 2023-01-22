@@ -17,34 +17,6 @@
       "nome": "Gabi",
       "instagram": "Gabi",
       "fone": "1866666666"
-    },
-    {
-      "nome": "LOL",
-      "instagram": "Lolzero",
-      "fone": "1818181818",
-      "id": 4
-    }
-  ],
-  "categoria": [
-    {
-      "id": 1,
-      "titulo": "Loja gamer",
-      "descricao": "Foco em computadores gamers e acessorios para jogos"
-    },
-    {
-      "id": 2,
-      "titulo": "Loja ferramenta",
-      "descricao": "Foco em ferramenta"
-    },
-    {
-      "id": 3,
-      "titulo": "Loja gamer",
-      "descricao": "Foco em computadores gamers"
-    },
-    {
-      "titulo": "Loja carro",
-      "descricao": "venda de carro",
-      "id": 4
     }
   ]
 }
