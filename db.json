@@ -2,21 +2,10 @@
   "pessoa": [
     {
       "id": 1,
-      "nome": "Vinicius Soares",
-      "instagram": "volze",
-      "fone": "1845656565"
-    },
-    {
-      "id": 2,
-      "nome": "João",
-      "instagram": "João",
-      "fone": "185555555"
-    },
-    {
-      "id": 3,
-      "nome": "Gabi",
-      "instagram": "Gabi",
-      "fone": "1866666666"
+      "nome": "vinicius",
+      "email": "vinicius@gmail.com",
+      "fone": "18555555",
+      "descricao": "estou com um problema na placa de video"
     }
   ]
 }
